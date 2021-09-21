@@ -528,7 +528,7 @@ a.ex-btn:hover::before{
 
 /* -------- hero banner fotter ---- */
 .hero-banner-fotter {
-    background: url(./img/free-bg.jpg) center center;
+    background: url(https://i.ibb.co/B334Bjq/free-bg.jpg) center center;
     background-size: cover;
     height: 480px;
 }
